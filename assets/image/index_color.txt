@@ -1,0 +1,9 @@
+ungu - 5A2AB7
+abu gelap - b5b5b5
+biru - 2196f3
+hijau - 4cb050
+merah - f44236
+orange - ff9700
+toska - 01cab8
+kuning - fbc200
+abu background - eaeff4
